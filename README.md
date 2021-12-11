@@ -9,10 +9,11 @@
 
 <p align="center">
 <br>
+<a href="https://www.linkedin.com/in/thuvarahan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.facebook.com/thuvarahan97"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/sthuvarahan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://twitter.com/SThuvarahan97"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/thuvarahan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
 </p>
 
 <br>
@@ -64,16 +65,12 @@
 
 ## :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Thuvarahan's Github Stats" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Thuvarahan's Top Languages">
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&hide_border=true&theme=dark&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e")
-![Thuvarahan's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&theme=radical")
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuvarahan97)
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Thuvarahan's Github Stats" width="53%">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thuvarahan97&theme=dark" width="53%" alt="Thuvarahan's Github Streak" width="55%">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="44%" alt="Thuvarahan's Top Languages">
+
 <br>
 
 ## 📝 Latest Blog Posts
