@@ -23,7 +23,7 @@
 ### I'm a Student, Undergraduate, and Developer
 - :man_student: I'm an Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
 - :computer: Former Intern - Game Development at Arimac Lanka Private Limited.
-- 🔭 I’m currently working on a my final year project!
+- 🔭 I’m currently working on my final year project!
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects, and learn about new technologies.
