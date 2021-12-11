@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Thuvarahan 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Thuvarahan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <br>
 
-### Languages and Tools: 
+## Languages and Tools: 
 
 [<code><img alt="Visual Studio Code" width="35px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -62,33 +62,18 @@
 
 <br>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Thuvarahan's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
+## :zap: Github Stats
 
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Thuvarahan's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Thuvarahan's Github Stats" width="60%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Thuvarahan's Top Languages">
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&hide_border=true&theme=dark)
-![Thuvarahan's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true")
-![![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuvarahan97)](https://git.io/streak-stats)-->
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&hide_border=true&theme=dark&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e")
+![Thuvarahan's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&theme=radical")
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuvarahan97)
+-->
 <br>
 
 ## 📝 Latest Blog Posts
