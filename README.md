@@ -65,11 +65,9 @@
 
 ## :zap: Github Stats
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Thuvarahan's Github Stats" width="53%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thuvarahan97&show_icons=true&theme=dark" alt="Thuvarahan's Github Stats" width="53%">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thuvarahan97&theme=dark" width="53%" alt="Thuvarahan's Github Streak" width="55%">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="44%" alt="Thuvarahan's Top Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuvarahan97&show_icons=true&theme=dark" width="44%" alt="Thuvarahan's Top Languages">
 
 <br>
 
@@ -86,7 +84,7 @@ Check out my articles on [Medium](https://thuvarahan.medium.com/):
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div><img src="/images/wave.svg" />
 
 <!--[website]: -->
 [twitter]: https://twitter.com/SThuvarahan97
