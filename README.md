@@ -84,7 +84,7 @@ Check out my articles on [Medium](https://thuvarahan.medium.com/):
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
-</div><img src="/images/wave.svg" />
+</div><img src="/wave.svg" />
 
 <!--[website]: -->
 [twitter]: https://twitter.com/SThuvarahan97
